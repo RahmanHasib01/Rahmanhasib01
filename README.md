@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmanhasib01&label=Profile%20views&color=0e75b6&style=flat" alt="rahmanhasib01" /> </p>
 
-- 🔭 I’m currently working on **see_r, a cctv camera app using ESP32-cam and flutter framework** 
+- 🔭 Currently working on **Knowfinity, an e-learning platform with many features (idk what features i can or cannot add)** 
 
 - 🌱 I’m currently learning **Data Science**
 
