@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm hasib</h1>
-<h3 align="center">A mobile app developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmanhasib01&label=Profile%20views&color=0e75b6&style=flat" alt="rahmanhasib01" /> </p>
+
 
 - 🔭 Currently working on **Knowfinity, an e-learning platform with many features (idk what features i can or cannot add)** 
 
